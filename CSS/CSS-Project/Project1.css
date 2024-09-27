@@ -1,0 +1,38 @@
+.tittle{
+    font-weight: normal;
+}
+.color-box{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+#rojo{
+    color: red;
+}
+#rojo-box{
+    background-color: red;
+}
+#azul{
+    color: rgb(0, 136, 255);
+}
+#azul-box{
+    background-color: rgb(0, 136, 255);
+    }
+#Anaranjado{
+    color: orange;
+}
+#Anaranjado-box{
+    background-color: orange;
+}
+#Verde{
+    color: green;
+}
+#Verde-box{
+    background-color: green;
+}
+#Amarillo{
+    color: yellow;
+}
+#Amarillo-box{
+    background-color: yellow;
+}
