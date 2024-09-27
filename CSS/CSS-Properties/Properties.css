@@ -1,0 +1,24 @@
+*{
+    color: white;
+}
+html{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(38, 137, 199);
+}
+.color{
+    color: coral;
+}
+.Size{
+    font-size: 5rem;
+}
+.Weight{
+    font-weight: 900;  
+}
+.Family{
+    font-family: 'Courier New', Courier, monospace;
+}
+.Align{
+    text-align: end;
+}
